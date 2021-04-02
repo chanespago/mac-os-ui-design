@@ -1,0 +1,42 @@
+.mp3-tool {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  cursor: pointer;
+}
+
+.album {
+  height: 72px;
+  width: 72px;
+}
+
+.controls {
+  display: flex;
+  flex-direction: column;
+  width: calc( 100% - 72px );
+  height: 100%;
+  /* background-color: blueviolet; */
+  padding: 0px 10px;
+}
+
+.controls>marquee>span{
+  /* background-color: burlywood; */
+  text-align: center;
+  font-size: 18px;
+  width: 80%;
+}
+.controls>input{
+  cursor: pointer;
+  padding: 5px;
+}
+
+.controls > div {
+  width: 100%;
+  /* background-color: cadetblue; */
+  text-align: center;
+
+}
+.controls > div > i {
+  font-size: 24px;
+  margin: auto 15px;
+}

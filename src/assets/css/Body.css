@@ -1,0 +1,16 @@
+.slideshow-container {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  margin: auto;
+  z-index: -99;
+  overflow: hidden;
+  object-fit: fill;
+}
+
+.mySlides img {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  object-fit: fill;
+}

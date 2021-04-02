@@ -1,0 +1,69 @@
+.task-bar {
+  position: absolute;
+  width: 100vw;
+  height: 30px;
+  background-color: rgba(141, 141, 141, 0.5);
+  top:0;
+  z-index: 1;
+  box-shadow: 0 0 5px 1px;
+
+}
+
+.taskbar-wrapper {
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+  font-size: 14px;
+}
+
+.menu {
+  position: relative;
+  display:flex;
+  top: 4px;
+  /* background-color: aqua; */
+  margin-left: 15px;
+}
+
+.startBtn {
+  position: relative;
+  top:-2px;
+  /* background-color: chartreuse; */
+  margin: 0 auto;
+  border-radius: 5px;
+  padding: 0 5px;
+  transition: 0.3s all ease-in-out;
+}
+
+.startBtn:hover {
+  cursor: pointer;
+  background-color:rgba(153, 153, 153, 0.5);
+}
+
+.menu-list {
+  /* background-color: cadetblue; */
+  position: relative;
+}
+
+.menu-items {
+  position: relative;
+  list-style: none;
+  display:flex;
+  justify-content: space-evenly;
+}
+
+.menu-link {
+  padding: 3px 20px;
+  /* background-color: cadetblue; */
+  margin: 0 2px;
+  border-radius: 5px;
+  transition: 0.3s all ease-in-out;
+}
+
+.menu-link:hover{
+  cursor: pointer;
+  background-color:rgba(153, 153, 153, 0.5);
+}
+
+.bold {
+  font-weight: bold;
+}
