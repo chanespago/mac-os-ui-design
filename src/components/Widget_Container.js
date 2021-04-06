@@ -4,7 +4,7 @@ import { MP3 } from './MP3'
 import { Slider } from './Slider'
 import { Dates } from './Dates'
 
-export const Widget_Container = (props) => {
+export const WIDGET_CONTAINER = (props) => {
   return (
     <div className={`widget-item-container ${ props.displayClass }`}>
       

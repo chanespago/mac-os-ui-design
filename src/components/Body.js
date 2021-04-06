@@ -18,19 +18,19 @@ export const Body = () => {
       <div className="slideshow-container">
         <Fade  autoplay={true} duration={5000} arrows={false}>
         <div className="mySlides fade">
-          <img src={highsierra}/>
+          <img src={highsierra} alt="high-sierra"/>
         </div>
         <div className="mySlides fade">
-          <img src={leopard}/>
+          <img src={leopard} alt="leopard"/>
         </div>
         <div className="mySlides fade">
-          <img src={lion}/>
+          <img src={lion} alt="lion"/>
         </div>
         <div className="mySlides fade">
-          <img src={mojavenight}/>
+          <img src={mojavenight} alt="mojave-night"/>
         </div>
         <div className="mySlides fade">
-          <img src={yosemite}/>
+          <img src={yosemite} alt="yosemite"/>
         </div>
          </Fade> 
       </div>

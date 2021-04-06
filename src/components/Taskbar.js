@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import { Widget_Container } from './Widget_Container'
+import { WIDGET_CONTAINER } from './WIDGET_CONTAINER'
 import { Time } from './Time';
 import { Dates } from './Dates';
 
@@ -35,7 +35,7 @@ export const Taskbar = () => {
       setisClock((prev) => !prev);
       setClassName("date-and-time");
     }else if (varName === "_tools") {
-      setisClock((prev) => !prev);
+      setShowTools((prev) => !prev);
       setClassName("control-center");
     }
   }
@@ -98,7 +98,7 @@ export const Taskbar = () => {
       </div>
       {showOverlay ? 
         <div className="task-bar-overlay" onClick={() => setShowOverlay(false)}>
-          <Widget_Container 
+          <WIDGET_CONTAINER 
             displayClass={displayClass}
             targetDisplay={targetDisplay}
           />

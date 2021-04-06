@@ -2,7 +2,7 @@
 .widgets {
   position: relative;
   display:flex;
-  top: 4px;
+  top: 2px;
   /* background-color: aqua; */
   margin-right: 15px;
 }
