@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/mac-os-ui-design/static/css/main.c4ef706d.chunk.css",
+    "main.js": "/mac-os-ui-design/static/js/main.b5014275.chunk.js",
+    "main.js.map": "/mac-os-ui-design/static/js/main.b5014275.chunk.js.map",
+    "runtime-main.js": "/mac-os-ui-design/static/js/runtime-main.48a8ff40.js",
+    "runtime-main.js.map": "/mac-os-ui-design/static/js/runtime-main.48a8ff40.js.map",
+    "static/css/2.0ccb862f.chunk.css": "/mac-os-ui-design/static/css/2.0ccb862f.chunk.css",
+    "static/js/2.5a5a8355.chunk.js": "/mac-os-ui-design/static/js/2.5a5a8355.chunk.js",
+    "static/js/2.5a5a8355.chunk.js.map": "/mac-os-ui-design/static/js/2.5a5a8355.chunk.js.map",
+    "static/js/3.46a1f624.chunk.js": "/mac-os-ui-design/static/js/3.46a1f624.chunk.js",
+    "static/js/3.46a1f624.chunk.js.map": "/mac-os-ui-design/static/js/3.46a1f624.chunk.js.map",
+    "index.html": "/mac-os-ui-design/index.html",
+    "static/css/2.0ccb862f.chunk.css.map": "/mac-os-ui-design/static/css/2.0ccb862f.chunk.css.map",
+    "static/css/main.c4ef706d.chunk.css.map": "/mac-os-ui-design/static/css/main.c4ef706d.chunk.css.map",
+    "static/js/2.5a5a8355.chunk.js.LICENSE.txt": "/mac-os-ui-design/static/js/2.5a5a8355.chunk.js.LICENSE.txt",
+    "static/media/app-store-2019-09-25.a928dcf1.png": "/mac-os-ui-design/static/media/app-store-2019-09-25.a928dcf1.png",
+    "static/media/apple-settings.586f4f9e.png": "/mac-os-ui-design/static/media/apple-settings.586f4f9e.png",
+    "static/media/claquette-gif-video-tool-2021-02-25.2df7a51c.png": "/mac-os-ui-design/static/media/claquette-gif-video-tool-2021-02-25.2df7a51c.png",
+    "static/media/fantastical-2-2015-03-25.f0fe0f92.png": "/mac-os-ui-design/static/media/fantastical-2-2015-03-25.f0fe0f92.png",
+    "static/media/goodnotes-5-2021-03-19.d19dcc71.png": "/mac-os-ui-design/static/media/goodnotes-5-2021-03-19.d19dcc71.png",
+    "static/media/high-sierra.9234ea11.jpg": "/mac-os-ui-design/static/media/high-sierra.9234ea11.jpg",
+    "static/media/leopard.637c2563.png": "/mac-os-ui-design/static/media/leopard.637c2563.png",
+    "static/media/lion.d31a844f.png": "/mac-os-ui-design/static/media/lion.d31a844f.png",
+    "static/media/macos-catalina-2019-10-08.b130a5e7.png": "/mac-os-ui-design/static/media/macos-catalina-2019-10-08.b130a5e7.png",
+    "static/media/messages-2019-09-25.8f0367ea.png": "/mac-os-ui-design/static/media/messages-2019-09-25.8f0367ea.png",
+    "static/media/microsoft-outlook-2019-04-22.44a8acae.png": "/mac-os-ui-design/static/media/microsoft-outlook-2019-04-22.44a8acae.png",
+    "static/media/microsoft-powerpoint-2019-05-01.985ccce3.png": "/mac-os-ui-design/static/media/microsoft-powerpoint-2019-05-01.985ccce3.png",
+    "static/media/microsoft-word-2019-05-01.06eb706a.png": "/mac-os-ui-design/static/media/microsoft-word-2019-05-01.06eb706a.png",
+    "static/media/mojave-night.3eda9b13.jpg": "/mac-os-ui-design/static/media/mojave-night.3eda9b13.jpg",
+    "static/media/music-2019-09-25.5f1ce074.png": "/mac-os-ui-design/static/media/music-2019-09-25.5f1ce074.png",
+    "static/media/taylor-swift-red-album-cover.1aef5da9.jfif": "/mac-os-ui-design/static/media/taylor-swift-red-album-cover.1aef5da9.jfif",
+    "static/media/twitter-2015-12-30.ace20679.png": "/mac-os-ui-design/static/media/twitter-2015-12-30.ace20679.png",
+    "static/media/yosemite.7da46a95.jpg": "/mac-os-ui-design/static/media/yosemite.7da46a95.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48a8ff40.js",
+    "static/css/2.0ccb862f.chunk.css",
+    "static/js/2.5a5a8355.chunk.js",
+    "static/css/main.c4ef706d.chunk.css",
+    "static/js/main.b5014275.chunk.js"
+  ]
+}
